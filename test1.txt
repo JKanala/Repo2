@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is DA01-AE12
+
+ Directory of D:\Project
+
+05/04/2017  10:52 PM    <DIR>          .
+05/04/2017  10:52 PM    <DIR>          ..
+05/04/2017  10:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  356,012,613,632 bytes free
